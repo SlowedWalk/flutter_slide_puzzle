@@ -7,7 +7,7 @@ on:
       - "pubspec.yaml"
       - "pubspec.lock"
     branches:
-      - main
+      - dev
 
 jobs:
   deploy:
@@ -30,9 +30,9 @@ jobs:
       - name: Deploy
         uses: FirebaseExtended/action-hosting-deploy@v0
         with:
-          repoToken: "${{ secrets.GITHUB_TOKEN }}"
+          repoToken: "${{ secrets.GH_TOKEN }}"
           firebaseServiceAccount: "${{ secrets.FIREBASE_HOSTING_DEV }}"
-          projectId: slide-puzzle-dev
-          target: slide-puzzle-dev-34815
+          projectId: slide-puzzle-d6a68
+          target: slide-puzzle
           expires: 30d
           channelId: live
