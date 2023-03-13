@@ -70,7 +70,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '617783758084',
     projectId: 'slide-puzzle-d6a68',
     storageBucket: 'slide-puzzle-d6a68.appspot.com',
-    iosClientId: '617783758084-qg3qdc3uktkqht5r4lg1cklad25g8r8t.apps.googleusercontent.com',
+    iosClientId:
+        '617783758084-qg3qdc3uktkqht5r4lg1cklad25g8r8t.apps.googleusercontent.com',
     iosBundleId: 'com.example.verygoodcore.dev',
   );
 }
