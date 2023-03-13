@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "617783758084",
+    "project_id": "slide-puzzle-d6a68",
+    "storage_bucket": "slide-puzzle-d6a68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617783758084:android:5a6507d624ced2ae2a5451",
+        "android_client_info": {
+          "package_name": "com.example.verygoodcore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617783758084-v9bhluni5gqbboe7d9fmvi8qmeogtplm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSVqu2qzd3GU3fhOWW8oI_XQ-pW_9nLDU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617783758084-v9bhluni5gqbboe7d9fmvi8qmeogtplm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "617783758084-qg3qdc3uktkqht5r4lg1cklad25g8r8t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.verygoodcore.dev"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
